@@ -1,6 +1,9 @@
 # ODrive-Update
 ODrive updating and calibration scripts
 
+# Setup Environment
+Install Python3, and ODrivetool
+
 # Prepare REEL for Updating
 Remove the front cover of REEL, and spool out the hook until it is ~2 feet from the bell
 
