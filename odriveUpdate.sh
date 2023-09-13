@@ -2,4 +2,4 @@
 
 echo "flashing odrive"
 
-odrivetool dfu ../../images/ODriveFirmware.hex
+odrivetool dfu ./firmware/ODriveFirmware.hex
